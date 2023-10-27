@@ -23,7 +23,7 @@ if there is an error it can again explain the error in simple english
 APP_VARIANT=contextful
 PATHWAY_REST_CONNECTOR_HOST=0.0.0.0
 PATHWAY_REST_CONNECTOR_PORT=8080
-OPENAI_API_TOKEN="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"
+OPENAI_API_TOKEN=""
 PATHWAY_CACHE_DIR=/tmp/cache
 
 
