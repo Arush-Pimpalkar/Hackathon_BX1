@@ -1,0 +1,22 @@
+NEEDS:
+user can enter prompts in plain english
+tool is able to perform the asked task
+provide output in understandable english.
+
+INPUT: 
+feed data to pathway-LLM via cheet sheets right now and might integerate one of the library like python (will show a basic command like --v)
+use chatgpt api to skin thru database for the right command 
+
+OUTPUT: 
+enter the output from the command line into chatgpt using sh files and running them in bash(not needed)
+chatgpt explains the output 
+we fine-tune to print out only the the relevent part for the user
+
+CHALLENGES:
+making the dictionary : feeding clean data-set to the pathway api 
+
+lets say we ask it to run a python file 
+it will run a python file
+if there is an error it can again explain the error in simple english
+
+
