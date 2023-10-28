@@ -1,0 +1,79 @@
+﻿{"doc": "Get-Process","description": "Lists all the running processes on your computer."}
+{"doc": "Start-Process","description": "Starts a new process."}
+{"doc": "Get-ChildItem","description": "Lists the contents of a directory."}
+{"doc": "Set-Location","description": "Changes the current directory."}
+{"doc": "mkdir","description": "Creates a new directory."}
+{"doc": "rmdir","description": "Removes a directory."}
+{"doc": "cp","description": "Copies a file."}
+{"doc": "mv","description": "Moves a file."}
+{"doc": "rm","description": "Removes a file."}
+{"doc": "New-Item","description": "Creates a new object."}
+{"doc": "Remove-Item","description": "Removes an object."}
+{"doc": "Get-Help","description": "Provides help and documentation for other cmdlets."}
+{"doc": "About-","description": "Displays information about a doc."}
+{"doc": "Alias","description": "Lists all the aliases for a doc."}
+{"doc": "Out-File","description": "Redirects the output of a doc to a file."}
+{"doc": "In-File","description": "Reads the input for a doc from a file."}
+{"doc": "Foreach-Object","description": "Iterates over a collection of objects."}
+{"doc": "While-Object","description": "Iterates as long as a condition is true."}
+{"doc": "Do-Until","description": "Iterates until a condition is true."}
+{"doc": "Switch-Case","description": "Selects a case based on a value."}
+{"doc": "If-Else","description": "Executes a block of code if a condition is true, or another block of code if the condition is false."}
+{"doc": "Try-Catch","description": "Executes a block of code, try, and catches any errors that occur."}
+{"doc": "Finally","description": "Executes a block of code regardless of whether an error occurs or not."}
+{"doc": "Use-Module","description": "Imports a module."}
+{"doc": "Export-Module","description": "Exports a module."}
+{"doc": "Import-CSV","description": "Imports data from a CSV file."}
+{"doc": "Export-CSV","description": "Exports data to a CSV file."}
+{"doc": "Start-Transcript","description": "Starts a transcript."}
+{"doc": "Stop-Transcript","description": "Stops a transcript."}
+{"doc": "Get-EventLog","description": "Retrieves events from the event log."}
+{"doc": "Invoke-WebRequest","description": "Invokes a web request."}
+{"doc": "Get-Uri","description": "Gets the URI of a resource."}
+{"doc": "Set-Uri","description": "Sets the URI of a resource."}
+{"doc": "New-Object","description": "Creates a new object."}
+{"doc": "Remove-Object","description": "Removes an object."}
+{"doc": "Get-Member","description": "Gets the members of an object."}
+{"doc": "Set-Member","description": "Sets the members of an object."}
+{"doc": "Invoke-Member","description": "Invokes the members of an object."}
+{"doc": "New-Alias","description": "Creates a new alias."}
+{"doc": "Remove-Alias","description": "Removes an alias."}
+{"doc": "New-Module","description": "Creates a new module."}
+{"doc": "Remove-Module","description": "Removes a module."}
+{"doc": "New-Type","description": "Creates a new type."}
+{"doc": "Remove-Type","description": "Removes a type."}
+{"doc": "New-Variable","description": "Creates a new variable."}
+{"doc": "Remove-Variable","description": "Removes a variable."}
+{"doc": "New-Function","description": "Creates a new function."}
+{"doc": "Remove-Function","description": "Removes a function."}
+{"doc": "Group-Object","description": "Groups objects by property."}
+{"doc": "New-Object","description": "Creates a new object."}
+{"doc": "Get-Date","description": "Retrieves the current date and time."}
+{"doc": "New-TimeSpan","description": "Creates a time span object."}
+{"doc": "Start-Sleep","description": "Delays the execution of a script or doc."}
+{"doc": "Write-Output","description": "Writes output to the pipeline."}
+{"doc": "Write-Host","description": "Writes output to the host (console)."}
+{"doc": "Get-Module","description": "Retrieves modules in the current session."}
+{"doc": "Get-Service","description": "Retrieves information about services."}
+{"doc": "Start-Service","description": "Starts one or more services."}
+{"doc": "Stop-Service","description": "Stops one or more services."}
+{"doc": "Clear-EventLog","description": "Clears events from an event log."}
+{"doc": "Test-Path","description": "Checks if a path exists."}
+{"doc": "Get-Content","description": "Retrieves the content of a file."}
+{"doc": "Set-Content","description": "Writes or updates the content of a file."}
+{"doc": "Clear-EventLog","description": "Clears events from an event log."}
+{"doc": "New-Item","description": "Creates a new item in a location."}
+{"doc": "Rename-Item","description": "Renames an item."}
+{"doc": "Copy-Item","description": "Copies an item."}
+{"doc": "Move-Item","description": "Moves an item."}
+{"doc": "Test-Path","description": "Checks if a path exists."}
+{"doc": "Out-Null","description": "Discards output."}
+{"doc": "Measure-Object","description": "Measures an object's properties."}
+{"doc": "Group-Object","description": "Groups objects by property."}
+{"doc": "New-Object","description": "Creates a new object."}
+{"doc": "Get-Date","description": "Retrieves the current date and time."}
+{"doc": "New-TimeSpan","description": "Creates a time span object."}
+{"doc": "Start-Sleep","description": "Delays the execution of a script or doc."}
+{"doc": "Write-Output","description": "Writes output to the pipeline."}
+{"doc": "Write-Host","description": "Writes output to the host (console)."}
+{"doc": "Get-Module","description": "Retrieves modules in the current session."}

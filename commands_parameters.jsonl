@@ -1,0 +1,30 @@
+{"doc": "ASSOC <.ext>: Displays or modifies file extension associations.\n"}
+{"doc": "ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [<File>]: Displays or changes file attributes.\n"}
+{"doc": "BCDEDIT /set <identifier> <setting>: Sets properties in boot database to control boot loading.\n"}
+{"doc": "CACLS <File> [/T] [/E] [/C] [/G user:perm] [/R user] [/P user:perm]: Displays or modifies access control lists (ACLs) of files.\n"}
+{"doc": "CHKDSK <Drive> /F: Checks a disk and displays a status report.\n"}
+{"doc": "COMP <File1> <File2>: Compares the contents of two files or sets of files.\n"}
+{"doc": "COPY <Source> <Destination> [/A | /B] [/V] [/N] [/Y | /-Y]: Copies one or more files to another location.\n"}
+{"doc": "DATE [MM-DD-YYYY]: Displays or sets the date.\n"}
+{"doc": "DEL <File>: Deletes one or more files.\n"}
+{"doc": "DIR [<Directory>] [/B] [/O[[:]-]<SortOrder>] [/S]: Displays a list of files and subdirectories in a directory.\n"}
+{"doc": "DISKPART: Displays or configures disk partitions.\n"}
+{"doc": "DOSKEY /REINSTALL: Edits command lines, recalls Windows Command Prompt commands, and creates macros.\n"}
+{"doc": "ECHO <Message>: Displays messages or turns command echoing on or off.\n"}
+{"doc": "EXIT: Quits the Windows Command Prompt.\n"}
+{"doc": "FC <File1> <File2>: Compares two files or sets of files and displays the differences between them.\n"}
+{"doc": "FIND \"<Text>\": Searches for a text string in a file or files.\n"}
+{"doc": "FINDSTR /C:\"<String>\" <File>: Searches for strings in files.\n"}
+{"doc": "FOR %variable IN (<Set>) DO <Command>: Runs a specified command for each file in a set of files.\n"}
+{"doc": "FORMAT <DriveLetter>: /FS:<FileSystem> [/Q]: Formats a disk for use with Windows.\n"}
+{"doc": "FSUTIL <Command>: Displays or configures the file system properties.\n"}
+{"doc": "FTYPE <FileType>=<CommandString>: Displays or modifies file types used in file extension association.\n"}
+{"doc": "GOTO :<Label>: Directs the Windows Command Prompt to a labeled line in a batch program.\n"}
+{"doc": "HELP [<Command>]: Provides Help information for Windows Command Prompt commands.\n"}
+{"doc": "ICACLS <FileName> [/T] [/Q] [/C] [/L] [/SETOWNER user[/T]] [/GRANT[:r] user:perm] [/DENY user:perm] [/REMOVE[:[r]] user[:[r]] [...]]: Display, modify, backup, or restore ACLs for files and directories.\n"}
+{"doc": "IF <Condition> <Command>: Performs conditional processing in batch programs.\n"}
+{"doc": "LABEL <Volume> <Label>: Creates, changes, or deletes the volume label of a disk.\n"}
+{"doc": "MD <DirectoryName>: Creates a directory.\n"}
+{"doc": "MKDIR <DirectoryName>: Creates a directory.\n"}
+{"doc": "MKLINK <Link> <Target> [/H] [/J]: Creates a symbolic link.\n"}
+{"doc": "MODE <Device> [<Status>]: Configures a system device.\n"}

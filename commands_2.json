@@ -1,0 +1,318 @@
+﻿[
+   {
+      "command": "Get-Process",
+      "description": "Lists all the running processes on your computer."
+    },
+    {
+      "command": "Start-Process",
+      "description": "Starts a new process."
+    },
+    {
+      "command": "Get-ChildItem",
+      "description": "Lists the contents of a directory."
+    },
+    {
+      "command": "Set-Location",
+      "description": "Changes the current directory."
+    },
+    {
+      "command": "mkdir",
+      "description": "Creates a new directory."
+    },
+    {
+      "command": "rmdir",
+      "description": "Removes a directory."
+    },
+    {
+      "command": "cp",
+      "description": "Copies a file."
+    },
+    {
+      "command": "mv",
+      "description": "Moves a file."
+    },
+    {
+      "command": "rm",
+      "description": "Removes a file."
+    },
+    {
+      "command": "New-Item",
+      "description": "Creates a new object."
+    },
+    {
+      "command": "Remove-Item",
+      "description": "Removes an object."
+    },
+    {
+      "command": "Get-Help",
+      "description": "Provides help and documentation for other cmdlets."
+    },
+    {
+      "command": "About-",
+      "description": "Displays information about a command."
+    },
+    {
+      "command": "Alias",
+      "description": "Lists all the aliases for a command."
+    },
+    {
+      "command": "Out-File",
+      "description": "Redirects the output of a command to a file."
+    },
+    {
+      "command": "In-File",
+      "description": "Reads the input for a command from a file."
+    },
+    {
+      "command": "Foreach-Object",
+      "description": "Iterates over a collection of objects."
+    },
+    {
+      "command": "While-Object",
+      "description": "Iterates as long as a condition is true."
+    },
+    {
+      "command": "Do-Until",
+      "description": "Iterates until a condition is true."
+    },
+    {
+      "command": "Switch-Case",
+      "description": "Selects a case based on a value."
+    },
+    {
+      "command": "If-Else",
+      "description": "Executes a block of code if a condition is true, or another block of code if the condition is false."
+    },
+    {
+      "command": "Try-Catch",
+      "description": "Executes a block of code, try, and catches any errors that occur."
+    },
+    {
+      "command": "Finally",
+      "description": "Executes a block of code regardless of whether an error occurs or not."
+    },
+    {
+      "command": "Use-Module",
+      "description": "Imports a module."
+    },
+    {
+      "command": "Export-Module",
+      "description": "Exports a module."
+    },
+    {
+      "command": "Import-CSV",
+      "description": "Imports data from a CSV file."
+    },
+    {
+      "command": "Export-CSV",
+      "description": "Exports data to a CSV file."
+    },
+    {
+      "command": "Start-Transcript",
+      "description": "Starts a transcript."
+    },
+    {
+      "command": "Stop-Transcript",
+      "description": "Stops a transcript."
+    },
+    {
+      "command": "Get-EventLog",
+      "description": "Retrieves events from the event log."
+    },
+    {
+      "command": "Invoke-WebRequest",
+      "description": "Invokes a web request."
+    },
+    {
+      "command": "Get-Uri",
+      "description": "Gets the URI of a resource."
+    },
+    {
+      "command": "Set-Uri",
+      "description": "Sets the URI of a resource."
+    },
+    {
+      "command": "New-Object",
+      "description": "Creates a new object."
+    },
+    {
+      "command": "Remove-Object",
+      "description": "Removes an object."
+    },
+    {
+      "command": "Get-Member",
+      "description": "Gets the members of an object."
+    },
+    {
+      "command": "Set-Member",
+      "description": "Sets the members of an object."
+    },
+    {
+      "command": "Invoke-Member",
+      "description": "Invokes the members of an object."
+    },
+    {
+      "command": "New-Alias",
+      "description": "Creates a new alias."
+    },
+    {
+      "command": "Remove-Alias",
+      "description": "Removes an alias."
+    },
+    {
+      "command": "New-Module",
+      "description": "Creates a new module."
+    },
+    {
+      "command": "Remove-Module",
+      "description": "Removes a module."
+    },
+    {
+      "command": "New-Type",
+      "description": "Creates a new type."
+    },
+    {
+      "command": "Remove-Type",
+      "description": "Removes a type."
+    },
+    {
+      "command": "New-Variable",
+      "description": "Creates a new variable."
+    },
+    {
+      "command": "Remove-Variable",
+      "description": "Removes a variable."
+    },
+    {
+      "command": "New-Function",
+      "description": "Creates a new function."
+    },
+    {
+      "command": "Remove-Function",
+      "description": "Removes a function."
+    },
+    {
+      "command": "Group-Object",
+      "description": "Groups objects by property."
+    },
+    {
+      "command": "New-Object",
+      "description": "Creates a new object."
+    },
+    {
+      "command": "Get-Date",
+      "description": "Retrieves the current date and time."
+    },
+    {
+      "command": "New-TimeSpan",
+      "description": "Creates a time span object."
+    },
+    {
+      "command": "Start-Sleep",
+      "description": "Delays the execution of a script or command."
+    },
+    {
+      "command": "Write-Output",
+      "description": "Writes output to the pipeline."
+    },
+    {
+      "command": "Write-Host",
+      "description": "Writes output to the host (console)."
+    },
+    {
+      "command": "Get-Module",
+      "description": "Retrieves modules in the current session."
+    },
+    {
+      "command": "Get-Service",
+      "description": "Retrieves information about services."
+    },
+    {
+      "command": "Start-Service",
+      "description": "Starts one or more services."
+    },
+    {
+      "command": "Stop-Service",
+      "description": "Stops one or more services."
+    },
+    {
+      "command": "Clear-EventLog",
+      "description": "Clears events from an event log."
+    },
+    {
+      "command": "Test-Path",
+      "description": "Checks if a path exists."
+    },
+    {
+      "command": "Get-Content",
+      "description": "Retrieves the content of a file."
+    },
+    {
+      "command": "Set-Content",
+      "description": "Writes or updates the content of a file."
+    },
+    {
+      "command": "Clear-EventLog",
+      "description": "Clears events from an event log."
+    },
+    {
+      "command": "New-Item",
+      "description": "Creates a new item in a location."
+    },
+    {
+      "command": "Rename-Item",
+      "description": "Renames an item."
+    },
+    {
+      "command": "Copy-Item",
+      "description": "Copies an item."
+    },
+    {
+      "command": "Move-Item",
+      "description": "Moves an item."
+    },
+    {
+      "command": "Test-Path",
+      "description": "Checks if a path exists."
+    },
+    {
+      "command": "Out-Null",
+      "description": "Discards output."
+    },
+    {
+      "command": "Measure-Object",
+      "description": "Measures an object's properties."
+    },
+    {
+      "command": "Group-Object",
+      "description": "Groups objects by property."
+    },
+    {
+      "command": "New-Object",
+      "description": "Creates a new object."
+    },
+    {
+      "command": "Get-Date",
+      "description": "Retrieves the current date and time."
+    },
+    {
+      "command": "New-TimeSpan",
+      "description": "Creates a time span object."
+    },
+    {
+      "command": "Start-Sleep",
+      "description": "Delays the execution of a script or command."
+    },
+    {
+      "command": "Write-Output",
+      "description": "Writes output to the pipeline."
+    },
+    {
+      "command": "Write-Host",
+      "description": "Writes output to the host (console)."
+    },
+    {
+      "command": "Get-Module",
+      "description": "Retrieves modules in the current session."
+    }
+  ]

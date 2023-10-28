@@ -1,0 +1,30 @@
+{"doc": "ASSOC <.ext>", "description": " Displays or modifies file extension associations."}
+{"doc": "ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [<File>]", "description": " Displays or changes file attributes."}
+{"doc": "BCDEDIT /set <identifier> <setting>", "description": " Sets properties in boot database to control boot loading."}
+{"doc": "CACLS <File> [/T] [/E] [/C] [/G user", "description": "perm] [/R user] [/P user"}
+{"doc": "CHKDSK <Drive> /F", "description": " Checks a disk and displays a status report."}
+{"doc": "COMP <File1> <File2>", "description": " Compares the contents of two files or sets of files."}
+{"doc": "COPY <Source> <Destination> [/A | /B] [/V] [/N] [/Y | /-Y]", "description": " Copies one or more files to another location."}
+{"doc": "DATE [MM-DD-YYYY]", "description": " Displays or sets the date."}
+{"doc": "DEL <File>", "description": " Deletes one or more files."}
+{"doc": "DIR [<Directory>] [/B] [/O[[", "description": "]-]<SortOrder>] [/S]"}
+{"doc": "DISKPART", "description": " Displays or configures disk partitions."}
+{"doc": "DOSKEY /REINSTALL", "description": " Edits command lines, recalls Windows Command Prompt commands, and creates macros."}
+{"doc": "ECHO <Message>", "description": " Displays messages or turns command echoing on or off."}
+{"doc": "EXIT", "description": " Quits the Windows Command Prompt."}
+{"doc": "FC <File1> <File2>", "description": " Compares two files or sets of files and displays the differences between them."}
+{"doc": "FIND <Text>", "description": " Searches for a text string in a file or files."}
+{"doc": "FINDSTR /C", "description": "find <String> in this <File>"}
+{"doc": "FOR %variable IN (<Set>) DO <Command>", "description": " Runs a specified command for each file in a set of files."}
+{"doc": "FORMAT <DriveLetter>", "description": " /FS"}
+{"doc": "FSUTIL <Command>", "description": " Displays or configures the file system properties."}
+{"doc": "FTYPE <FileType>=<CommandString>", "description": " Displays or modifies file types used in file extension association."}
+{"doc": "GOTO ", "description": "<Label>"}
+{"doc": "HELP [<Command>]", "description": " Provides Help information for Windows Command Prompt commands."}
+{"doc": "ICACLS <FileName> [/T] [/Q] [/C] [/L] [/SETOWNER user[/T]] [/GRANT[", "description": "r] user"}
+{"doc": "IF <Condition> <Command>", "description": " Performs conditional processing in batch programs."}
+{"doc": "LABEL <Volume> <Label>", "description": " Creates, changes, or deletes the volume label of a disk."}
+{"doc": "MD <DirectoryName>", "description": " Creates a directory."}
+{"doc": "MKDIR <DirectoryName>", "description": " Creates a directory."}
+{"doc": "MKLINK <Link> <Target> [/H] [/J]", "description": " Creates a symbolic link."}
+{"doc": "MODE <Device> [<Status>]", "description": " Configures a system device."}
